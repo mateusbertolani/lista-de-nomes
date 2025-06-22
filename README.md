@@ -1,3 +1,17 @@
+# Lista de Nomes
+
+Mini app criado com Vue 3, Nuxt e Vuetify que permite adicionar, editar e excluir nomes com dados salvos no navegador.
+
+![Print do projeto](./screenshot.png)
+
+## Funcionalidades
+
+- Adicionar nomes
+- Editar nomes diretamente no card
+- Cancelar edição
+- Excluir nomes
+- Salvar automaticamente no localStorage
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
